@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "id": "A123456",
+      "name": "Csist",
+      "email": "csist@gmail.com",
+      "gender": "male",
+      "contact": {
+        "mobile": "+01 1234567890",
+        "home": "53 333333",
+        "office": "53 333333"
+        }
+      },
+    {
+      "id": "A123457",
+      "name": "JPYU",
+      "email": "jpyu@gmail.com",
+      "gender": "male",
+      "contact": {
+        "mobile": "+01 1234567890",
+        "home": "53 334333",
+        "office": "53 333133"
+        }
+      },
+    {
+      "id": "A123426",
+      "name": "Tony",
+      "email": "tony@gmail.com",
+      "gender": "male",
+      "contact": {
+        "mobile": "+01 1234567890",
+        "home": "53 933333",
+        "office": "53 373333"
+        }
+      }
+    ]
+    }
